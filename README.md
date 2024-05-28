@@ -1,2 +1,2 @@
-Hi there
-I am Aparna Dondapati, I am from Guntur,India.I have completed my under graduation in the stream of civil engineering and I have served as cloud engineer in DXC for 2 years where I served different roles as Data engineer on Google cloud technology, served as Onboarding member where I have handled ORR process and azure cloud operations engineer where I served multiple accounts. Thorough the roles assigned I have gained hands on experience with tools like JIRA, service now, cloud checker, crowd strike, DevOps tools,  Terraform, confluence and share point. I have been a crediting part of several activities including Creating ORR checklist.
+Hi there!
+
